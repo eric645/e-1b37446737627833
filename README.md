@@ -1,2 +1,3 @@
 # This is an RTF law that has to do with no more viruses.
-No more viruses. Viruses infect a PC. MEMZ deletes all the boot files and system files. We do not want that. We want all the system files and boot files to always be on the main drive.
+### Coderkids
+No more viruses. Viruses infect a PC. MEMZ deletes all the boot files and system files. We do not want that. We want all the system files and boot files to always be on the main drive. MEMZ destroys your computer by deleting OS files and infecting your motherboard. You will need to get a new hard drive and a new motherboard. Then reset the PC with the new motherboard and the new hard drive. Then reinstall the operating system. Maybe you want to try another operating system on the same computer. You can get files back by importing from last hard drive you used on the computer.
